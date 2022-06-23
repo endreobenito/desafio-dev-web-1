@@ -1,0 +1,17 @@
+{
+  "name": "desafio",
+  "version": "1.0.0",
+  "description": "App Desafio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node App.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "exxpress": "^1.0.0",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.0"
+  }
+}
